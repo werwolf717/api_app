@@ -1,0 +1,1 @@
+[Thu Jun 25 20:56:15.877198 2020] [php7:error] [pid 542] [client 127.0.0.1:44598] script '/var/www/app-developer.ru/public/wp-login.php' not found or unable to stat, referer: http://app-developer.ru/wp-login.php
